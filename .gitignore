@@ -18,6 +18,8 @@
 target/
 local/
 
+lib/
+
 # Eclipse, Netbeans and IntelliJ files
 .*
 !.gitignore
